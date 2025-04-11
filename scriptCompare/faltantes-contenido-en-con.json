@@ -1,0 +1,30 @@
+[
+  {
+    "categoria": "argentina",
+    "archivo": "live-america-prod-con-config.json",
+    "faltantes": [
+      {
+        "type": "external",
+        "content": "https://census-web.scorecardresearch.com/plugins/streaming-jwplayer/v2/current.js"
+      },
+      {
+        "type": "external",
+        "content": ""
+      }
+    ]
+  },
+  {
+    "categoria": "españa",
+    "archivo": "live-america-prod-con-config.json",
+    "faltantes": [
+      {
+        "type": "external",
+        "content": "https://census-web.scorecardresearch.com/plugins/streaming-jwplayer/v2/current.js"
+      },
+      {
+        "type": "external",
+        "content": ""
+      }
+    ]
+  }
+]

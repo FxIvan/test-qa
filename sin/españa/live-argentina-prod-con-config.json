@@ -1,0 +1,170 @@
+[
+  {
+    "type": "inline",
+    "content": "if(!Array.prototype.includes||!(window.Object && window.Object.assign)||!window.Promise||!window.Symbol||!window.fetch){document.write('<script type=\"application/javascript\" src=\"/pf/dist/engine/polyf..."
+  },
+  {
+    "type": "external",
+    "content": "/pf/dist/engine/react.js?d=3124&mxId=00000000"
+  },
+  {
+    "type": "external",
+    "content": "/pf/dist/components/combinations/default.js?d=3124&mxId=00000000"
+  },
+  {
+    "type": "external",
+    "content": "/pf/resources/dist/infobae/js/main.js?d=3124"
+  },
+  {
+    "type": "external",
+    "content": "https://d1bl11pgu3tw3h.cloudfront.net/vendor/comscore/5.2.0/streamsense.min.js?org=infobae"
+  },
+  {
+    "type": "external",
+    "content": "https://sb.scorecardresearch.com/beacon.js"
+  },
+  {
+    "type": "inline",
+    "content": "var _comscore = _comscore || []; _comscore.push({ c1: \"2\", c2: \"8030908\", options: { enableFirstPartyCookie: true, bypassUserConsentRequirementFor1PCookie: true } }); (function () { var s = document.c..."
+  },
+  {
+    "type": "inline",
+    "content": "(function(i,s,o,g,r,a,m){i[\"GoogleAnalyticsObject\"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=0;a.src=g..."
+  },
+  {
+    "type": "external",
+    "content": "https://www.googletagmanager.com/gtag/js?id=G-Q2J791G3GV"
+  },
+  {
+    "type": "inline",
+    "content": "window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-Q2J791G3GV');..."
+  },
+  {
+    "type": "external",
+    "content": "//applets.ebxcdn.com/ebx.js"
+  },
+  {
+    "type": "external",
+    "content": "https://functions.adnami.io/api/macro/adsm.macro.infobae.com.js"
+  },
+  {
+    "type": "external",
+    "content": "https://accounts.google.com/gsi/client"
+  },
+  {
+    "type": "external",
+    "content": "https://btloader.com/tag?o=5173450951360512&upapi=true"
+  },
+  {
+    "type": "inline",
+    "content": "!function(e,o,n,i){if(!e){e=e||{},window.permutive=e,e.q=[];var t=function(){return([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g,function(e){return(e^(window.crypto||window.msCrypto).getRandomValues(n..."
+  },
+  {
+    "type": "external",
+    "content": "https://a564e303-c351-48a1-b5d1-38585e343734.edge.permutive.app/aa463839-b614-4c77-b5e9-6cdf10e1960c-web.js"
+  },
+  {
+    "type": "inline",
+    "content": "!function(t,e){\"object\"==typeof exports&&\"undefined\"!=typeof module?module.exports=e():\"function\"==typeof define&&define.amd?define(e):t.ResizeObserver=e()}(this,(function(){\"use strict\";function t(t)..."
+  },
+  {
+    "type": "inline",
+    "content": "function classThemeChange(){const e=window.localStorage.getItem(\"theme\"),a=document.querySelector(\"html\");a.classList.contains(\"dark\")||\"dark\"!==e||a.classList.add(\"dark\"),a.classList.contains(\"dark\")..."
+  },
+  {
+    "type": "inline",
+    "content": "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.sr..."
+  },
+  {
+    "type": "inline",
+    "content": "!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[..."
+  },
+  {
+    "type": "inline",
+    "content": "\"undefined\"!=typeof window&&(window.googlefc=window.googlefc||{},window.googlefc.callbackQueue=window.googlefc.callbackQueue||[],window.googlefc.callbackQueue.push({CONSENT_DATA_READY(){__tcfapi(\"addE..."
+  },
+  {
+    "type": "external",
+    "content": "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js"
+  },
+  {
+    "type": "inline",
+    "content": "const getCountry=(timeZone)=>{switch(timeZone){case 'America/Argentina/Buenos_Aires':case 'America/Argentina/Catamarca':case 'America/Argentina/ComodRivadavia':case 'America/Argentina/Cordoba':case 'A..."
+  },
+  {
+    "type": "inline",
+    "content": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsMediaOrganization\",\"name\":\"Infobae\",\"description\":\"El sitio de noticias en español más leído en el mundo. Con redacciones en Ciudad de México, Madrid, Bog..."
+  },
+  {
+    "type": "inline",
+    "content": "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@id\":\"https://infobae.com\",\"name\":\"Infobae\"}},{\"@type\":\"ListItem\",\"position\":2,\"i..."
+  },
+  {
+    "type": "inline",
+    "content": "{\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Paro de la CGT: negocios y escuelas abiertas en CABA e impacto reducido en todo el país por el funcionamiento de los colectivos\",\"art..."
+  },
+  {
+    "type": "inline",
+    "content": "{\"@context\":\"https://schema.org\",\"@type\":\"LiveBlogPosting\",\"url\":\"https://www.infobae.com/politica/2025/04/10/el-paro-general-de-la-cgt-en-vivo-las-ultimas-noticias-de-la-medida-de-fuerza-contra-el-go..."
+  },
+  {
+    "type": "inline",
+    "content": "(window.BOOMR_mq=window.BOOMR_mq||[]).push([\"addVar\",{\"rua.upush\":\"false\",\"rua.cpush\":\"false\",\"rua.upre\":\"false\",\"rua.cpre\":\"false\",\"rua.uprl\":\"false\",\"rua.cprl\":\"false\",\"rua.cprf\":\"false\",\"rua.trans\"..."
+  },
+  {
+    "type": "inline",
+    "content": "!function(e){var n=\"https://s.go-mpulse.net/boomerang/\";if(\"False\"==\"True\")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n=..."
+  },
+  {
+    "type": "external",
+    "content": "https://census-web.scorecardresearch.com/plugins/streaming-jwplayer/v2/current.js"
+  },
+  {
+    "type": "external",
+    "content": "https://census-web.scorecardresearch.com/plugins/streaming-jwplayer/v2/current.js"
+  },
+  {
+    "type": "inline",
+    "content": "window.Fusion=window.Fusion||{};Fusion.arcSite=\"infobae\";Fusion.contextPath=\"/pf\";Fusion.mxId=\"00000000\";Fusion.deployment=\"3124\";Fusion.globalContent={\"_id\":\"65EBAXEO7JCEZCUAP5GSNCR2ZU\",\"canonical_ur..."
+  },
+  {
+    "type": "inline",
+    "content": "function e(e){var t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1],c=document.createElement(\"script\");c.src=e,t?c.type=\"module\":(c.async=!0,c.type=\"text/javascript\",c.setAttribute(\"nomodul..."
+  },
+  {
+    "type": "inline",
+    "content": "window.setTimeout(function(){if (window.innerWidth >= 960) window.location.reload();}, 600000)..."
+  },
+  {
+    "type": "inline",
+    "content": "window.googletag=window.googletag||{cmd:[]},googletag?.cmd?.push((function(){googletag.pubads().enableLazyLoad({fetchMarginPercent:500,renderMarginPercent:200,mobileScaling:2}),googletag.enableService..."
+  },
+  {
+    "type": "inline",
+    "content": "window.fbAsyncInit=function(){FB.init({appId:'907935373302455',autoLogAppEvents :true,xfbml:true,version:'v14.0'});};..."
+  },
+  {
+    "type": "external",
+    "content": "https://connect.facebook.net/en_US/sdk.js"
+  },
+  {
+    "type": "external",
+    "content": "//servg1.net/o.js?uid=91c9607849b31c0cb9008187"
+  },
+  {
+    "type": "external",
+    "content": "https://d18bee67u93fo2.cloudfront.net/Scripts/iframeResizer.min.js"
+  },
+  {
+    "type": "inline",
+    "content": "const handleAdBlockDetection = (e) => {\n    if (e.detail.ab) {\n      localStorage.setItem('adblock', true);\n    } else {\n      localStorage.setItem('adblock', false);\n    }\n  };\n  window.addEventListe..."
+  },
+  {
+    "type": "inline",
+    "content": "if (typeof window !== 'undefined') {\n    (async function() {\n      try {\n        const registrations = await navigator.serviceWorker.getRegistrations();\n        registrations.forEach(registration => {..."
+  },
+  {
+    "type": "inline",
+    "content": "window.googletag = window.googletag || { cmd: [] };\n      window.googletag.cmd = window.googletag.cmd || [];\n      window.googletag.cmd.push(() => {\n        window.googletag.pubads().enableSingleReque..."
+  }
+]
