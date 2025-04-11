@@ -15,3 +15,8 @@ Los script faltante en las carpeta ***con*** son lo que estan en este JSON
 
 
 https://github.com/FxIvan/test-qa/blob/main/scriptCompare/faltantes-contenido-en-con.json
+
+
+el script-cheerio se encarga de hacer el scraping y traerme todos los script que se utiliza
+
+https://github.com/FxIvan/test-qa/tree/main/script-cheerio
